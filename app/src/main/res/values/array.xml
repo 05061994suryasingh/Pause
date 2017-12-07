@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="places">
+        <item>nokia 5</item>
+        <item>samsung j5</item>
+        <item>vivo v5 s</item>
+        <item>lenovo k5 note</item>
+        <item>Redmi note 4</item>
+        <item>moto g5 s Plus</item>
+        <item>lenovo k5 note</item>
+        <item>Redmi note 4</item>
+        <item>moto g5 s Plus</item>
+        <item>Redmi note 4</item>
+        <item>moto g5 s Plus</item>
+    </string-array>
+    <string-array name="mobile">
+        <item>nokia 5</item>
+        <item>samsung j5</item>
+        <item>vivo v5 s</item>
+        <item>lenovo k5 note</item>
+        <item>Redmi note 4</item>
+        <item>moto g5 s Plus</item>
+        <item>lenovo k5 note</item>
+        <item>Redmi note 4</item>
+        <item>moto g5 s Plus</item>
+        <item>nokia 5</item>
+    </string-array>
+
+    <!--<array name="array_dot_active">-->
+    <!--<item>@drawable/scroll_active</item>-->
+    <!--<item>@drawable/scroll_active</item>-->
+    <!--<item>@drawable/scroll_active</item>-->
+    <!--</array>-->
+
+    <!--<array name="array_dot_inactive">-->
+    <!--<item>@drawable/scroll_normal</item>-->
+    <!--<item>@drawable/scroll_normal</item>-->
+    <!--<item>@drawable/scroll_normal</item>-->
+    <!--</array>-->
+
+</resources>

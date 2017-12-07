@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundcolor"
+    tools:context="com.example.pause.activity.splash.SplashActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="fitXY"
+        android:adjustViewBounds="true"
+        android:id="@+id/imgpauselogo"
+        android:src="@drawable/pause_picture3" />
+
+    <ImageView
+        android:id="@+id/imgmainLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:src="@drawable/pause_main_logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imgmainLogo"
+        android:layout_below="@+id/imgmainLogo"
+        android:textSize="12sp"
+        android:textColor="@color/textColor"
+        android:id="@+id/txtless"
+        android:text="@string/lessanixity" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_below="@+id/imgmainLogo"
+        android:layout_toEndOf="@+id/txtless"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/bullet" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/imgmainLogo"
+        android:layout_below="@+id/imgmainLogo"
+        android:textSize="12sp"
+
+        android:textColor="@color/textColor"
+        android:id="@+id/txtmorehapiness"
+        android:text="@string/morehappinss" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:padding="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:layout_marginBottom="50dp"
+        android:layout_below="@+id/txtmorehapiness"
+        android:text="@string/txtsplacedetail"
+        android:id="@+id/txtLogo"/>
+</RelativeLayout>

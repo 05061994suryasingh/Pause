@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pause</string>
+    <string name="lessanixity">LESS ANXIETY</string>
+    <string name="morehappinss">MORE HAPPINSS</string>
+    <string name="txtsplacedetail">Being aware of my social media use makes me a Happier Person Cutting back on my social media really help my mental health</string>
+    <string name="txtTotorialone">\"Me and all my friends use this to limit all social media intake and stay in a positive mental state".</string>
+    <string name="txtTotorialfive">This app is easy to use simply enable social media acccounts and pauce will use  transparent lighting to notify you when a dangerous amount of time is spent which can impact your mood and overall mental health. We will help monitor usage every 24 hrs.</string>
+    <string name="next">next</string>
+    <string name="finish">finish</string>
+    <string name="txtTotoriafour">Socially alerts you using transparent coloring making you aware when using an excessive amount of social media that subconsciously damages mood. Cutting back on social media use can help with following:</string>
+    <string name="lessdepression">Less Depression</string>
+    <string name="moreSelfTime">More Self-Time</string>
+    <string name="HappierPerson">Happier Person</string>
+    <string name="txtTotorialthree">\"Exactly what I needed!\"</string>
+    <string name="txtTotorialtwo">\" I love social media but too much makes me feel uneasy. This app is great help!</string>
+</resources>
